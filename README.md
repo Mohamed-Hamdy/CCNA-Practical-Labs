@@ -12,7 +12,7 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
       <ul>
         <li><a href="#https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Access%20Lists/Standard%20Access%20Lists">Standard Access Lists</a></li>
       </ul>
-    /li>
+    </li>
     
     
   </ol>
