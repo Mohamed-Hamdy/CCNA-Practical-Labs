@@ -39,16 +39,16 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/BGP">BGP</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20authentication">Multiple-area OSPF with authentication</a></li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20authentication">Multiple-area OSPF with                          authentication</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20virtual%20link">Multiple-area OSPF with virtual link</a></li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20virtual%20link">Multiple-area OSPF with                    virtual link</a></li>
       </ul>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF">Multiple-area OSPF</a</li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/OSPF%20Router%20IDs%20(Loopback%20configuration)">OSPF Router IDs (Loopback configuration)</a</li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/OSPF%20Router%20IDs%20(Loopback%20configuration)">OSPF Router IDs       (Loopback configuration)</a</li>
       </ul>
           <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Redistribution%20(OSPF-RIP)">Redistribution (OSPF-RIP)</a></li>
