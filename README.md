@@ -14,9 +14,8 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Access%20Lists/Standard%20Access%20Lists">Standard Access Lists</a></li>
       </ul>
     </li>
-  </ol>
-  <ol>
-      <!-- Section 2 -->
+  
+    <!-- Section 2 -->
     <li>
       <a href="#Access Lists">Section 2 (Routing)</a>
       <ul>
@@ -33,9 +32,8 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
           </li>
       </ul>
     </li>
-  </ol>
-  <ol>
-        <!-- Section 3 -->
+  
+    <!-- Section 3 -->
     <li>
       <a href="#Access Lists">Section 3 (Advanced Routing)</a>
       <ul>
@@ -57,19 +55,16 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Redistribution%20(OSPF-RIP)">Redistribution (OSPF-RIP)</a></li>
       </ul>
     </li>
-  </ol>
-  <ol>
-              <!-- Section 4 -->
+  
+    <!-- Section 4 -->
     <li>
       <a href="#Access Lists">Section 4 (Frame Relay)</a>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Frame%20Relay">Frame Relay Lab</a></li>
       </ul>
     </li>
-  </ol>
-          
-     <ol>
-      <!-- Section 5 -->
+  
+    <!-- Section 5 -->
     <li>
       <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
       <ul>
