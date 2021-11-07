@@ -28,7 +28,6 @@
           </li>
       </ul>
 
-    </li>
     <li>
      <a href="#Access Lists">Section 3 (Advanced Routing)</a>
       <ul>
