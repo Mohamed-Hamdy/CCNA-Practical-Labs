@@ -35,7 +35,7 @@
       </ul>
       
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20authentication">Multiple area OSPF with                          authentication</a></li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20authentication">Multiple area OSPF with authentication</a></li>
       
      </li>
   </ol>
