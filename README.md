@@ -53,11 +53,10 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
           <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Redistribution%20(OSPF-RIP)">Redistribution (OSPF-RIP)</a></li>
       </ul>
-    </li>
+    
+        </li></li>
         
     <!-- Section 4 -->
-     
-    <!-- Section 3 -->
     <li>
       <a href="#Access Lists">Section 3 (Advanced Routing)</a>
       <ul>
