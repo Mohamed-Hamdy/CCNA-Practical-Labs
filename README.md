@@ -54,7 +54,6 @@
       <ul>
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN">VLAN</a></li>
       </ul>
-      
       <ul>
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN%20Trunking%20Protocol">VLAN Trunking Protocol</a></li>
       </ul>
