@@ -56,12 +56,12 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
     </li>
         
     <!-- Section 4 -->
-    <li>
+    <ul>
       <a href="#Frame_Relay">Section 4 (Frame Relay)</a>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Frame%20Relay">Frame Relay Lab</a></li>
       </ul>
-   </li> 
+   </ul> 
   </ol>
   
 </details>
