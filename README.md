@@ -47,28 +47,22 @@
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Router%20on%20a%20Stick%202">Router on a Stick 2</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/STP%20Security">STP Security</a>
-          </li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/STP%20Security">STP Security</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Spanning-Tree%20Protocol">Spanning-Tree Protocol</a>
-          </li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Spanning-Tree%20Protocol">Spanning-Tree Protocol</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN">VLAN</a>
-          </li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN">VLAN</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN%20Trunking%20Protocol">VLAN Trunking Protocol</a>
-          </li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN%20Trunking%20Protocol">VLAN Trunking Protocol</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLANs%20on%20Multilayer%20Switches%201">VLANs on Multilayer Switches 1</a>
-          </li>
+        <li><a href="">VLANs on Multilayer Switches 1</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLANs%20on%20Multilayer%20Switches%202">VLANs on Multilayer Switches 2</a>
-          </li>
+        <li><a href="">VLANs on Multilayer Switches 2</a></li>
       </ul>
     </li>
   </ol>
