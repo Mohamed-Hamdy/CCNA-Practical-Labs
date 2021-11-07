@@ -29,13 +29,36 @@
       </ul>
     </li>
     <li>
-     <a href="#Frame Relay">Section 3 (Frame Relay)</a>
+      <a href="#Advanced Routing">Section 3 (Advanced Routing)</a>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/BGP">BGP</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20authentication">Multiple area OSPF with authentication</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF%20with%20virtual%20link">Multiple-area OSPF with virtual link</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF">Multiple-area OSPF</a</li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/OSPF%20Router%20IDs%20(Loopback%20configuration)">OSPF Router IDs (Loopback configuration)</a</li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Redistribution%20(OSPF-RIP)">Redistribution (OSPF-RIP)</a></li>
+      </ul>
+    </li>
+    
+    
+    <li>
+     <a href="#Frame Relay">Section 4 (Frame Relay)</a>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Frame%20Relay">Frame Relay Lab</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Switching and VLANs">Section 4 (Switching and VLANs)</a>
+      <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
       <ul>
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Ether%20Channel%20(L2)">Ether Channel (L2)</a></li>
       </ul>
