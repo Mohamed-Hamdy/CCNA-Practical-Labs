@@ -48,21 +48,24 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Multiple-area%20OSPF">Multiple-area OSPF</a</li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/OSPF%20Router%20IDs%20(Loopback%20configuration)">OSPF Router IDs       (Loopback configuration)</a</li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/OSPF%20Router%20IDs%20(Loopback%20configuration)">OSPF Router IDs                       (Loopback configuration)</a</li>
       </ul>
           <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Redistribution%20(OSPF-RIP)">Redistribution (OSPF-RIP)</a></li>
       </ul>
-    
-        </li></li>
-        
-    <!-- Section 4 -->
+     </li>
+     
+        <!-- Section 1 -->
     <li>
-      <a href="#Access Lists">Section 3 (Advanced Routing)</a>
+      <a href="#Access Lists">Section 1 (Access Lists)</a>
       <ul>
-        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/BGP">BGP</a></li>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Access%20Lists/Extended%20Access%20Lists">Extended Access Lists</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Access%20Lists/Standard%20Access%20Lists">Standard Access Lists</a></li>
       </ul>
     </li>
+        
   </ol>
   
 </details>
