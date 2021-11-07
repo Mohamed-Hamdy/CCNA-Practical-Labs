@@ -69,7 +69,7 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
   </ol>
           
      <ol>
-      <!-- Section 2 -->
+      <!-- Section 5 -->
     <li>
       <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
       <ul>
@@ -107,6 +107,5 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
       </ul>
     </li>
   </ol>
-  <ol>       
 </details>
 
