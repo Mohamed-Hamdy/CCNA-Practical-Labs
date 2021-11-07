@@ -48,7 +48,6 @@
       <ul>
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/STP%20Security">STP Security</a></li>
       </ul>
-      
       <ul>
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Spanning-Tree%20Protocol">Spanning-Tree Protocol</a></li>
       </ul>
