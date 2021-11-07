@@ -35,9 +35,8 @@
       </ul>
     </li>
     
-    <li>
-      <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
       <ul>
+        <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Ether%20Channel%20(L2)">Ether Channel (L2)</a></li>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Router%20on%20a%20Stick">Router on a Stick 1</a></li>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Router%20on%20a%20Stick%202">Router on a Stick 2</a></li>
@@ -48,7 +47,6 @@
         <li><a href="">VLANs on Multilayer Switches 1</a></li>
         <li><a href="">VLANs on Multilayer Switches 2</a></li>
       </ul>
-    </li>
   </ol>
   
 </details>
