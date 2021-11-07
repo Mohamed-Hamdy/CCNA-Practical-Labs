@@ -49,8 +49,6 @@
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Advanced%20Routing/Redistribution%20(OSPF-RIP)">Redistribution (OSPF-RIP)</a></li>
       </ul>
     </li>
-    
-    
     <li>
      <a href="#Frame Relay">Section 4 (Frame Relay)</a>
       <ul>
