@@ -16,7 +16,7 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
     </li>
     
     <!-- Section 2 -->
-    <li>
+    <ol>
       <a href="#Access Lists">Section 2 (Routing)</a>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Routing/EIGRP">EIGRP</a></li>
@@ -31,7 +31,7 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Routing/Static%20routing%20and%20Default%20routes">Static routing and Default routes</a>
           </li>
       </ul>
-    </li>
+    </ol>
         
     <!-- Section 3 -->
     <li>
