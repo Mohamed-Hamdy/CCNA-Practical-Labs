@@ -35,7 +35,7 @@
       </ul>
     </li>
     
-        <li>
+    <li>
       <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Ether%20Channel%20(L2)">Ether Channel (L2)</a></li>
