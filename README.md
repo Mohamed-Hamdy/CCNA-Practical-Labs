@@ -1,5 +1,5 @@
 # CCNA-Practical-Labs
-<h2>Note: Every task have Pdf for Explanation</h2><br><br>
+<h2>Note: Every task have Pdf for Explanation</h2>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
