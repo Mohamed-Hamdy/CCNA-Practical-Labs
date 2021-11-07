@@ -58,16 +58,55 @@ This Repository contain Practical Cisco Networking Labs using Cisco Packet Trace
       </ul>
     </li>
   </ol>
-                   <!-- Section 4 -->
+  <ol>
+              <!-- Section 4 -->
     <li>
       <a href="#Access Lists">Section 4 (Frame Relay)</a>
       <ul>
         <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Frame%20Relay">Frame Relay Lab</a></li>
       </ul>
     </li>
-  <ol>
-    
   </ol>
-            
+          
+     <ol>
+      <!-- Section 2 -->
+    <li>
+      <a href="#Switching and VLANs">Section 5 (Switching and VLANs)</a>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Ether%20Channel%20(L2)">Ether Channel (L2)</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Router%20on%20a%20Stick">Router on a Stick 1</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Router%20on%20a%20Stick%202">Router on a Stick 2</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/STP%20Security">STP Security</a>
+          </li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/Spanning-Tree%20Protocol">Spanning-Tree Protocol</a>
+          </li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN">VLAN</a>
+          </li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLAN%20Trunking%20Protocol">VLAN Trunking Protocol</a>
+          </li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLANs%20on%20Multilayer%20Switches%201">VLANs on Multilayer Switches 1</a>
+          </li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLANs%20on%20Multilayer%20Switches%202">VLANs on Multilayer Switches 2</a>
+          </li>
+      </ul>
+    </li>
+  </ol>
+  <ol>       
 </details>
 
