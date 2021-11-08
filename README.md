@@ -86,9 +86,40 @@
       <ul>
       <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Switching%20and%20VLANs/VLANs%20on%20Multilayer%20Switches%202">VLANs on Multilayer Switches 2</a></li>
       </ul>
+    </li>    
+     <li>
+      <a href="#Switching and VLANs">Section 6 (Network Address Translation)</a>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/NAT%20(Network%20Address%20Translation)">NAT Lab </a></li>
+      </ul>
     </li>
-    
-    
+    <li>
+      <a href="#Switching and VLANs">Section 7 (Extra Labs)</a>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/GRE">GRE</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/HSRP%20-%20exercise%201%20(with%20routers)">HSRP - exercise 1 (with routers)</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/HSRP%20-%20exercise%202%20(with%20switches)">HSRP - exercise 2 (with switches)</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/IPsec">IPsec</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/Layer%203%20Ether%20Channel">Layer 3 Ether Channel</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/Point-to-Point%20Protocol%20(PPP)">Point-to-Point Protocol (PPP)</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/VolP">VolP</a></li>
+      </ul>
+      <ul>
+      <li><a href="https://github.com/Mohamed-Hamdy/CCNA-Practical-Labs/tree/master/Extra%20Labs/Superlab">Superlab</a></li>
+      </ul>
+    </li>
   </ol>
   
 </details>
